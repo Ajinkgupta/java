@@ -43,3 +43,4 @@ if(flag==0)  { System.out.println(n+" is prime number"); }
 
 ```3 is prime number ```
 
+<a href="https://www.onlinegdb.com/5NMANiN0w" class="button big">Run Project</a>
